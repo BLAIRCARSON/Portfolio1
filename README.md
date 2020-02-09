@@ -18,7 +18,7 @@
 - Phone Number:0717772547,Email:engineervinceblair@gmail.com
 
 ## Contact support
--Phone Number:0717772547,Email:engineervinceblair@gmail.com
+- Phone Number:0717772547,Email:engineervinceblair@gmail.com
 
 
 
@@ -29,5 +29,5 @@
 
 ## License
 
-- Licensed under the MIT license.
+
 
