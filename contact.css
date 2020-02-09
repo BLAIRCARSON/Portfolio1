@@ -66,12 +66,10 @@
     text-align: center;
     text-transform: uppercase;
     margin-top: 20px;
-    color: white;
+    color: rgb(8, 1, 1);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-body{
-    background-color: blue;
-}
+
 footer {
   background-color: green;
   text-align: center;
