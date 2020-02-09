@@ -18,8 +18,8 @@ body{
 }
 
 .column{
-  width: 550px;
-  float: left;
+  width: 910px;
+  /* float: left; */
   font-size: 30px;
   }
 
@@ -50,3 +50,14 @@ body{
     padding: 21px;
     color: white;
   }
+  footer {
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 2%;
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    /* clear: both; */
+    overflow: hidden;
+  } 
