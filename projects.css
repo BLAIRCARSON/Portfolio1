@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  nav{
+    background-color:green;
+    width:100%;
+    padding: 20px;
+  }
+  .topnav {
+    text-align: right;
+  }
+    
+  .topnav > li {
+    list-style: none;
+    display: inline;    
+  }
+    
+  .topnav > li > a {
+    text-decoration: none;
+    padding: 45px;
+    font-size: 30px;
+  }
+  .topnav > li > a:hover {
+    background-color: blueviolet;
+    padding: 21px;
+    color: white;
+  }

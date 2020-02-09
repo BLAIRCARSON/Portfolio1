@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-image: url(Coode.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#about.html{
+  font-family: 'Exo', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;  
+}
+  .aboutme{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+
+.column{
+  width: 550px;
+  float: left;
+  font-size: 30px;
+  }
+
+  .column >h3{
+      color: blue;
+  }
+  nav{
+    background-color:green;
+    width:100%;
+    padding: 20px;
+  }
+  .topnav {
+    text-align: right;
+  }
+    
+  .topnav > li {
+    list-style: none;
+    display: inline;    
+  }
+    
+  .topnav > li > a {
+    text-decoration: none;
+    padding: 45px;
+    font-size: 30px;
+  }
+  .topnav > li > a:hover {
+    background-color: blueviolet;
+    padding: 21px;
+    color: white;
+  }
