@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="contact.css">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <nav>
+        <ul class=topnav>
+            <li><a href="home.html">Home</a></li>            
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="projects.html">My Projects</a></li>
+            <li><a href="contact.html">Contact me</a></li>
+        </ul>
+    </nav>
+    <div class="want">
+        <h3>Do you want to contact me? <br> Fill the form below and send me a message:</h3>
+    </div>
+    <div class="container">
+        <form action="action_page.php">
+      
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="Your name..">
+      
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+      
+          <label for="county">County</label>
+          <select id="county" name="country">
+            <option value="nairobi">Nairobi</option>
+            <option value="mombasa">Mombasa</option>
+            <option value="kisumu">Kisumu</option>
+            <option value="others">Others</option>
+          </select>
+      
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+      
+        </form>
+      </div>
+      <div>
+        <footer class="footer" id="mycontacts">
+            <p>@Kirui_Vincent</p>
+            <p>Phone Number:0717772547</p> 
+            <p><em>&copy;2020 All Rights Reserved</em></p>
+        </footer>
+    </div> 
+</body>
+</html>
