@@ -1,6 +1,6 @@
 # My Portfolio
 
-## author
+## Author
 
 - Kirui Cheruiyot Vincent
 
@@ -13,11 +13,16 @@
 - Open terminal (CTRL ALT T) git clone https://github.com/BLAIRCARSON/portfolio1 cd portfolio easy-to-understand use atom . or code . to open the clone repo on Atom or VS-code respectively
 
 
+<<<<<<< HEAD
 ## contact support
 - Phone Number:0717772547,Email:engineervinceblair@gmail.com
+=======
+## Contact support
+-Phone Number:0717772547,Email:engineervinceblair@gmail.com
+>>>>>>> 56692ff00d4de61b778623bfc70ec15b67bd6a2d
 
 
-## technologies used
+## Technologies used
 
 - html
 - css
