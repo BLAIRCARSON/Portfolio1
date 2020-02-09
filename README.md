@@ -29,5 +29,5 @@
 
 ## License
 
-
+- Licensed unde the <a href="https://github.com/BLAIRCARSON/portfolio1/blob/master/LICENSE">MIT license</a>
 
