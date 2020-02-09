@@ -10,15 +10,19 @@
 
 ## Setup/installation requirements
 
--Open terminal (CTRL ALT T) git clone https://github.com/BLAIRCARSON/portfolio1 cd portfolio easy-to-understand use atom . or code . to open the clone repo on Atom or VS-code respectively
+- Open terminal (CTRL ALT T) git clone https://github.com/BLAIRCARSON/portfolio1 cd portfolio easy-to-understand use atom . or code . to open the clone repo on Atom or VS-code respectively
 
 
 ## contact support
--Phone Number:0717772547,Email:engineervinceblair@gmail.com
+- Phone Number:0717772547,Email:engineervinceblair@gmail.com
 
 
 ## technologies used
 
 - html
 - css
+
+## License
+
+- Licensed under the MIT license.
 
