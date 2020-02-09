@@ -72,3 +72,12 @@
 body{
     background-color: blue;
 }
+footer {
+  background-color: green;
+  text-align: center;
+  color: aliceblue;
+  padding-bottom: 2%;
+  width: 100%;
+  padding: 20px;
+  font-size: 20px;
+} 
