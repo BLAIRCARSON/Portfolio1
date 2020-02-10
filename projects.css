@@ -68,4 +68,13 @@
         width: 100%;
         padding: 20px;
         font-size: 20px;
+        clear: both;
       } 
+
+      .column{
+        float: left;
+        width: 50%;
+      }
+      .text1{
+        text-align: center;
+      }
